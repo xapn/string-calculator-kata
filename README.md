@@ -1,4 +1,4 @@
-# Code Kata: \<name it\>
+# Code Kata: String Calculator
 
 What code kata do you choose to solve today? Explain the game rules here. Please keep explanations below about the boilerplate as it is.
 
